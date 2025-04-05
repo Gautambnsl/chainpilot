@@ -121,7 +121,7 @@ export default function Home() {
                 <div className="w-48 h-48 mx-auto rounded-full overflow-hidden bg-gradient-to-br from-emerald-500 to-emerald-700">
                   <img
                     src="./rishabh.jpeg"
-                    alt="Anshul - CEO"
+                    alt="Rishabh - CEO"
                     className="w-full h-full object-cover mix-blend-overlay opacity-75"
                   />
                 </div>
@@ -157,7 +157,7 @@ export default function Home() {
                 <div className="w-48 h-48 mx-auto rounded-full overflow-hidden bg-gradient-to-br from-emerald-500 to-emerald-700">
                   <img
                     src="./anshul.jpeg"
-                    alt="Rishabh - CFO"
+                    alt="Anshul - CFO"
                     className="w-full h-full object-cover mix-blend-overlay opacity-75"
                   />
                 </div>

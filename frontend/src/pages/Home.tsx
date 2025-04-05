@@ -120,7 +120,7 @@ export default function Home() {
               <div className="relative mb-6">
                 <div className="w-48 h-48 mx-auto rounded-full overflow-hidden bg-gradient-to-br from-emerald-500 to-emerald-700">
                   <img
-                    src="./anshul.jpeg"
+                    src="./rishabh.jpeg"
                     alt="Anshul - CEO"
                     className="w-full h-full object-cover mix-blend-overlay opacity-75"
                   />
@@ -156,7 +156,7 @@ export default function Home() {
               <div className="relative mb-6">
                 <div className="w-48 h-48 mx-auto rounded-full overflow-hidden bg-gradient-to-br from-emerald-500 to-emerald-700">
                   <img
-                    src="./rishabh.jpeg"
+                    src="./anshul.jpeg"
                     alt="Rishabh - CFO"
                     className="w-full h-full object-cover mix-blend-overlay opacity-75"
                   />

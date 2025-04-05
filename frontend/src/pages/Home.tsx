@@ -126,7 +126,7 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white mb-2">Anshul</h3>
+              <h3 className="text-xl font-bold text-white mb-2">Rishabh</h3>
               <p className="text-emerald-500 font-medium mb-4">Chief Executive Officer</p>
               <p className="text-gray-400">
                 Visionary leader with extensive experience in blockchain technology and business strategy.
@@ -162,7 +162,7 @@ export default function Home() {
                   />
                 </div>
               </div>
-              <h3 className="text-xl font-bold text-white mb-2">Rishabh</h3>
+              <h3 className="text-xl font-bold text-white mb-2">Anshul</h3>
               <p className="text-emerald-500 font-medium mb-4">Chief Financial Officer</p>
               <p className="text-gray-400">
                 Financial strategist ensuring sustainable growth and optimal resource allocation.
